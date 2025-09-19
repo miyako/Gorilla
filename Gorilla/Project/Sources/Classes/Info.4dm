@@ -1,6 +1,8 @@
 property name : Text
 property version : Text
 property description : Text
+//property trumpet : cs.Trumpet.
+//property panda : cs.Panda.
 
 Class constructor
 	
