@@ -3,6 +3,10 @@
 		"Trumpet": {
 			"github": "miyako/Trumpet",
 			"version": "latest"
+		},
+		"Panda": {
+			"github": "miyako/Panda",
+			"version": "latest"
 		}
 	}
 }
